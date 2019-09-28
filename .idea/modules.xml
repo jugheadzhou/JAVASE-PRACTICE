@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO流/IO流.iml" filepath="$PROJECT_DIR$/IO流/IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/代理模式/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射/反射.iml" filepath="$PROJECT_DIR$/反射/反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程/多线程.iml" filepath="$PROJECT_DIR$/多线程/多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法/算法.iml" filepath="$PROJECT_DIR$/算法/算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/网络编程/网络编程.iml" filepath="$PROJECT_DIR$/网络编程/网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/随便练习/随便练习.iml" filepath="$PROJECT_DIR$/随便练习/随便练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合/集合.iml" filepath="$PROJECT_DIR$/集合/集合.iml" />
+    </modules>
+  </component>
+</project>
