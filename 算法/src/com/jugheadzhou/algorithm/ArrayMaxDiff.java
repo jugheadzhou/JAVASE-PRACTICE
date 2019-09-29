@@ -1,4 +1,4 @@
-package com.jugheadzhou.Array;
+package com.jugheadzhou.algorithm;
 
 /**
  * @ClassName: ArrayMaxDiff
